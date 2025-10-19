@@ -58,7 +58,9 @@ Trained a Gradient Boosting Regressor from sklearn.ensemble.
 #### Evaluated Model performance using key metrics:
 
 MSE: 38601291044.05604
+
 RMSE: 196472.1126370255
+
 R^2 Score: 0.9481848064789217
 
 #### 6. 📈 Model Evaluation
